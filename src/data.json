@@ -1,0 +1,40 @@
+ {
+    "cursos" : [
+ {
+     "id": 1,
+     "nombre" : "Cursos de ingles",
+     "precio" : 70,
+     "categoria" : "idiomas",
+     "descripcion" : "Cursos avanzados de ingles de negocios",
+     "author" : "daniel" 
+ },
+
+ {
+    "id": 2,
+    "nombre" : "Cursos de aleman",
+    "precio" : 70,
+    "categoria" : "idiomas",
+    "descripcion" : "Cursos avanzados de aleman de negocios",
+    "author" : "daniel" 
+},
+{
+    "id": 3,
+    "nombre" : "Cursos de frances",
+    "precio" : 70,
+    "categoria" : "idiomas",
+    "descripcion" : "Cursos avanzados de frances",
+    "author" : "daniel" 
+},
+
+{
+    "id": 4,
+    "nombre" : "Cursos de robotica",
+    "author" : "daniel" ,
+    "descripcion" : "Cursos avanzados de robotica",
+    "precio" : 70,
+    "categoria" : "robotica"
+    
+}
+
+    ]
+}
